@@ -1,0 +1,9 @@
+🖥️ Project Structure
+Drishti-AI-Smart-Glass/
+│
+├── app.py                # Main Flask server
+├── esp32_cam_code/      # ESP32 camera streaming code
+├── templates/           # Web interface (optional)
+├── static/              # Images & assets
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
